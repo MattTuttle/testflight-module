@@ -41,6 +41,7 @@ Titanium Mobile SDK's from the Continuous Integration server (aka CI Builds).
 |:---------|:----------|
 |1.0|1.7.2, 1.7.3|
 |1.1|1.7.2, 1.7.3, 1.7.5|
+|1.3|2.1.3|
 
 - - - 
 
